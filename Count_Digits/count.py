@@ -5,5 +5,5 @@ def countDigit(n):
         count += 1
     return count
  
- n = 345289467
+n = 345289467
 print("Number of digits : % d" % (countDigit(n)))
